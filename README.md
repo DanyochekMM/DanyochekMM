@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm DanyochekMM. 👋
 
-<!--
-**DanyochekMM/DanyochekMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate beginner Python developer who loves exploring the world of programming! 🚀
 
-Here are some ideas to get you started:
+## 🌟 About Me
+As a newcomer to the tech world, I'm eager to learn and grow my skills. My interests lie in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Development**: I'm currently learning how to build dynamic web applications using framework like Django.
+- **Automation**: I love creating scripts to automate repetitive tasks and make my life easier!
+
+## 💻 My Skills
+- **Programming Languages**: Python
+- **Web Frameworks**: Django.
+- **Tools & Technologies**: Git, GitHub, PostgreSQL, MYSQL
+
+## 🤝 Let's Connect!
+Feel free to reach out to me:
+- **Email**: danya.malinin.80@mail.ru
+- **VK**: https://vk.com/id464966003
+- **Tg**: t.me/DanyochekMM
+
+Thank you for visiting my profile! 🚀
